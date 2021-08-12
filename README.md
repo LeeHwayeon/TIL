@@ -9,3 +9,4 @@
 
 ## React
 - [Component Lifecycle](https://github.com/LeeHwayeon/TIL/blob/master/React/Component-Lifecycle.md)
+- [Redux](https://github.com/LeeHwayeon/TIL/blob/master/React/Redux.md)
